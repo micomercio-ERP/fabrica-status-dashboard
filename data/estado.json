@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-09-27T06:03:45-05:00",
+  "generado_en": "2026-09-28T06:04:02-05:00",
   "repos": [
     {
       "nombre": "jac-lapola",
@@ -10,19 +10,10 @@
         "recien_abierto_sin_plan": [],
         "estancado": []
       },
-      "completado_ayer": [
-        {"numero": 1, "tipo": "issue", "titulo": "[Solicitud]: Actualizar aportantes", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/1", "esfuerzo": "chico"},
-        {"numero": 2, "tipo": "pr", "titulo": "Registrar aporte de Manuel (Finca Portugal) — folio 84", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/2"},
-        {"numero": 3, "tipo": "issue", "titulo": "[Solicitud]: Nuevo aporte", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/3", "esfuerzo": "chico"},
-        {"numero": 4, "tipo": "pr", "titulo": "Registrar aporte de Javier Calderón y Marina Luna (Finca El Guayabo 2) — folio 85", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/4"},
-        {"numero": 5, "tipo": "issue", "titulo": "[Solicitud]: Aporte Fredy Cristancho", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/5", "esfuerzo": "chico"},
-        {"numero": 6, "tipo": "pr", "titulo": "Registrar aporte de Fredy Cristancho (Finca El Oasis) — folio 86", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/6"},
-        {"numero": 7, "tipo": "issue", "titulo": "[Solicitud]: Ajuste texto estado convenio", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/7", "esfuerzo": "chico"},
-        {"numero": 8, "tipo": "pr", "titulo": "Simplifica el chip de estado del cronómetro a 2 niveles (Issue #7)", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/8"}
-      ]
+      "completado_ayer": []
     }
   ],
   "errores": [
-    "El binario gh no estaba instalado en este entorno al iniciar la corrida; se instaló manualmente vía apt-get install -y gh (2.45.0) y se continuó con el flujo normal, sin usar ninguna vía alternativa."
+    "gh no estaba instalado en el entorno de esta corrida; se instaló vía apt-get install gh para poder ejecutar el reporte (no se usó ningún conector MCP ni credencial alternativa)."
   ]
 }
