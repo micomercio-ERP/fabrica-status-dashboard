@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-09-28T06:04:02-05:00",
+  "generado_en": "2026-09-28T07:55:59-05:00",
   "repos": [
     {
       "nombre": "jac-lapola",
@@ -14,6 +14,6 @@
     }
   ],
   "errores": [
-    "gh no estaba instalado en el entorno de esta corrida; se instaló vía apt-get install gh para poder ejecutar el reporte (no se usó ningún conector MCP ni credencial alternativa)."
+    "No se pudo publicar el reporte como comentario en el Issue fijo (#1) de fabrica-status: gh api falla en esta sesion tanto contra repos/micomercio-ERP/fabrica-status (\"GitHub access to this repository is not enabled for this session\") como contra repos/juanjorodriguez09/fabrica-status (\"Numeric-ID repository paths are not supported/permitted through this proxy\", probablemente por la transferencia del repo a la organizacion el 2026-09-26). No es un problema del token: el mismo GH_TOKEN_FABRICA funciono sin problema contra jac-lapola (gh api) y contra fabrica-status-dashboard (git clone/push). No se uso ningun conector MCP ni otra via alternativa para evitar el bloqueo, segun la regla del archivo. Requiere reconectar el repo fabrica-status a esta Routine."
   ]
 }
