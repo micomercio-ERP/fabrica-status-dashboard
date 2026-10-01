@@ -1,19 +1,5 @@
-{
-  "generado_en": "2026-09-28T07:55:59-05:00",
-  "repos": [
-    {
-      "nombre": "jac-lapola",
-      "categorias": {
-        "pausado_esperando_decision": [],
-        "pr_esperando_revision_merge": [],
-        "pendiente_de_aprobar": [],
-        "recien_abierto_sin_plan": [],
-        "estancado": []
-      },
-      "completado_ayer": []
-    }
-  ],
-  "errores": [
-    "No se pudo publicar el reporte como comentario en el Issue fijo (#1) de fabrica-status: gh api falla en esta sesion tanto contra repos/micomercio-ERP/fabrica-status (\"GitHub access to this repository is not enabled for this session\") como contra repos/juanjorodriguez09/fabrica-status (\"Numeric-ID repository paths are not supported/permitted through this proxy\", probablemente por la transferencia del repo a la organizacion el 2026-09-26). No es un problema del token: el mismo GH_TOKEN_FABRICA funciono sin problema contra jac-lapola (gh api) y contra fabrica-status-dashboard (git clone/push). No se uso ningun conector MCP ni otra via alternativa para evitar el bloqueo, segun la regla del archivo. Requiere reconectar el repo fabrica-status a esta Routine."
-  ]
-}
+{"generado_en":"2026-10-01T06:02:19-05:00","repos":[{"nombre":"jac-lapola","categorias":{"pausado_esperando_decision":[],"pr_esperando_revision_merge":[],"pendiente_de_aprobar":[],"recien_abierto_sin_plan":[],"estancado":[]},"completado_ayer":[
+{"numero":13,"tipo":"pr","titulo":"Cargar aporte 92: Abelardo, Finca La Elvira (Issue #12)","url":"https://github.com/micomercio-ERP/jac-lapola/pull/13","motivo":"Mergeado 2026-09-30","ultima_actividad":"2026-09-30"},
+{"numero":12,"tipo":"issue","titulo":"[Solicitud]: Aporte","url":"https://github.com/micomercio-ERP/jac-lapola/issues/12","motivo":"Cerrado 2026-09-30","ultima_actividad":"2026-09-30"},
+{"numero":11,"tipo":"pr","titulo":"Nuevos aportes 87-91 (Issue #10)","url":"https://github.com/micomercio-ERP/jac-lapola/pull/11","motivo":"Mergeado 2026-09-30","ultima_actividad":"2026-09-30"},
+{"numero":10,"tipo":"issue","titulo":"[Solicitud]: Nuevos aportes","url":"https://github.com/micomercio-ERP/jac-lapola/issues/10","motivo":"Cerrado 2026-09-30","ultima_actividad":"2026-09-30"}]}],"errores":[]}
