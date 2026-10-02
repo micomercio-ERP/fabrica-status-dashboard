@@ -1,5 +1,20 @@
-{"generado_en":"2026-10-01T06:02:19-05:00","repos":[{"nombre":"jac-lapola","categorias":{"pausado_esperando_decision":[],"pr_esperando_revision_merge":[],"pendiente_de_aprobar":[],"recien_abierto_sin_plan":[],"estancado":[]},"completado_ayer":[
-{"numero":13,"tipo":"pr","titulo":"Cargar aporte 92: Abelardo, Finca La Elvira (Issue #12)","url":"https://github.com/micomercio-ERP/jac-lapola/pull/13","motivo":"Mergeado 2026-09-30","ultima_actividad":"2026-09-30"},
-{"numero":12,"tipo":"issue","titulo":"[Solicitud]: Aporte","url":"https://github.com/micomercio-ERP/jac-lapola/issues/12","motivo":"Cerrado 2026-09-30","ultima_actividad":"2026-09-30"},
-{"numero":11,"tipo":"pr","titulo":"Nuevos aportes 87-91 (Issue #10)","url":"https://github.com/micomercio-ERP/jac-lapola/pull/11","motivo":"Mergeado 2026-09-30","ultima_actividad":"2026-09-30"},
-{"numero":10,"tipo":"issue","titulo":"[Solicitud]: Nuevos aportes","url":"https://github.com/micomercio-ERP/jac-lapola/issues/10","motivo":"Cerrado 2026-09-30","ultima_actividad":"2026-09-30"}]}],"errores":[]}
+{
+  "generado_en": "2026-10-02T06:02:00-05:00",
+  "repos": [
+    {
+      "nombre": "jac-lapola",
+      "categorias": {
+        "pausado_esperando_decision": [],
+        "pr_esperando_revision_merge": [],
+        "pendiente_de_aprobar": [],
+        "recien_abierto_sin_plan": [],
+        "estancado": []
+      },
+      "completado_ayer": [
+        {"numero": 14, "tipo": "issue", "titulo": "[Solicitud]: Ajustes de aportes", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/14", "motivo": "Cerrado el 2026-10-01 tras mergear el PR #15", "ultima_actividad": "2026-10-01", "esfuerzo": "chico"},
+        {"numero": 15, "tipo": "pr", "titulo": "Aporte 93 (Nelson Murillo) y predio Finca Cementales — Issue #14", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/15", "motivo": "Mergeado el 2026-10-01", "ultima_actividad": "2026-10-01"}
+      ]
+    }
+  ],
+  "errores": []
+}
