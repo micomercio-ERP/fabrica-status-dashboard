@@ -1,1 +1,26 @@
-{"generado_en":"2026-10-07T08:00:00-05:00","repos":[{"nombre":"jac-lapola","categorias":{"pausado_esperando_decision":[],"pr_esperando_revision_merge":[],"pendiente_de_aprobar":[],"recien_abierto_sin_plan":[],"estancado":[{"numero":9,"tipo":"issue","titulo":"🚀 Estado de despliegues (dev)","url":"https://github.com/micomercio-ERP/jac-lapola/issues/9","motivo":"Issue fijo de bitácora de verificaciones de despliegue; sin actividad desde 2026-09-30 (7 días), no requiere acción","ultima_actividad":"2026-09-30"}]},"completado_ayer":[]}],"errores":[]}
+{
+  "generado_en": "2026-10-08T11:03:42+00:00",
+  "repos": [
+    {
+      "nombre": "jac-lapola",
+      "categorias": {
+        "pausado_esperando_decision": [],
+        "pr_esperando_revision_merge": [],
+        "pendiente_de_aprobar": [],
+        "recien_abierto_sin_plan": [],
+        "estancado": [
+          {
+            "numero": 9,
+            "tipo": "issue",
+            "titulo": "🚀 Estado de despliegues (dev)",
+            "url": "https://github.com/micomercio-ERP/jac-lapola/issues/9",
+            "motivo": "Issue de registro de verificaciones post-deploy; sin actividad desde 2026-09-30, nada pendiente de acción",
+            "ultima_actividad": "2026-09-30"
+          }
+        ]
+      },
+      "completado_ayer": []
+    }
+  ],
+  "errores": []
+}
