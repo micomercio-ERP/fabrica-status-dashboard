@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-13T11:03:29+00:00",
+  "generado_en": "2026-10-14T06:02:30-05:00",
   "repos": [
     {
       "nombre": "jac-lapola",
@@ -8,19 +8,12 @@
         "pr_esperando_revision_merge": [],
         "pendiente_de_aprobar": [],
         "recien_abierto_sin_plan": [],
-        "estancado": [
-          {
-            "numero": 9,
-            "tipo": "issue",
-            "titulo": "🚀 Estado de despliegues (dev)",
-            "url": "https://github.com/micomercio-ERP/jac-lapola/issues/9",
-            "motivo": "Issue permanente de historial de verificaciones post-deploy; sin actividad desde 2026-09-30",
-            "ultima_actividad": "2026-09-30",
-            "esfuerzo": null
-          }
-        ]
+        "estancado": []
       },
-      "completado_ayer": []
+      "completado_ayer": [
+        {"numero": 18, "tipo": "issue", "titulo": "[Solicitud]: Actualizar aportes", "url": "https://github.com/micomercio-ERP/jac-lapola/issues/18", "motivo": "Cerrado 2026-10-13 tras mergear el PR #19", "ultima_actividad": "2026-10-13"},
+        {"numero": 19, "tipo": "pr", "titulo": "Issue #18: actualizar aportes (folio 101 y corrección de folios 39 y 96)", "url": "https://github.com/micomercio-ERP/jac-lapola/pull/19", "motivo": "Mergeado 2026-10-13", "ultima_actividad": "2026-10-13"}
+      ]
     }
   ],
   "errores": []
